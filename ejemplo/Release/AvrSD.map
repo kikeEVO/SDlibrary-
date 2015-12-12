@@ -1,0 +1,1778 @@
+Archive member included because of file (symbol)
+
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                              ./Source/stream/Print.o (__udivmodsi4)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                              ./Source/AvrSerial/avrSerial.o (__divmodsi4)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+                              /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o (exit)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                              ./Source/stream/Print.o (__do_copy_data)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                              ./Source/SD/utility/SdFile.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                              ./Source/SD/SD.o (__do_global_ctors)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+                              ./Source/stream/Stream.o (__muluhisi3)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                              /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o) (__tablejump__)
+/usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+                              /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o) (__umulhisi3)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+                              ./Source/stream/Print.o (__subsf3)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              ./Source/stream/Print.o (__ltsf2)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              ./Source/stream/Print.o (__fixunssfsi)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              ./Source/stream/Print.o (__floatunsisf)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              ./Source/stream/Print.o (__mulsf3)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+                              ./Source/SD/File.o (malloc)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(memcmp.o)
+                              ./Source/SD/utility/SdFile.o (memcmp)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strchr.o)
+                              ./Source/SD/SD.o (strchr)
+/usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strncpy.o)
+                              ./Source/SD/File.o (strncpy)
+
+Se asignan símbolos comunes
+Símbolo común       tamaño            fichero
+
+__brkval            0x2               /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+__flp               0x2               /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+
+Secciones de salida descartadas
+
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+ .group         0x0000000000000000        0x8 ./Source/stream/Print.o
+ .group         0x0000000000000000        0x8 ./Source/stream/Print.o
+ .text          0x0000000000000000        0x0 ./Source/stream/Print.o
+ .bss           0x0000000000000000        0x0 ./Source/stream/Print.o
+ .text._ZN5Print5printEc
+                0x0000000000000000        0xe ./Source/stream/Print.o
+ .text._ZN5Print5printEPc
+                0x0000000000000000        0x4 ./Source/stream/Print.o
+ .text._ZN5Print7printlnEPc
+                0x0000000000000000       0x24 ./Source/stream/Print.o
+ .text._ZN5Print7printlnEsi
+                0x0000000000000000       0x24 ./Source/stream/Print.o
+ .text._ZN5Print7printlnEti
+                0x0000000000000000       0x24 ./Source/stream/Print.o
+ .text._ZN5Print11printNumberEmi
+                0x0000000000000000       0xba ./Source/stream/Print.o
+ .text._ZN5Print5printEli
+                0x0000000000000000       0x82 ./Source/stream/Print.o
+ .text._ZN5Print5printEci
+                0x0000000000000000        0xe ./Source/stream/Print.o
+ .text._ZN5Print7printlnEci
+                0x0000000000000000       0x2e ./Source/stream/Print.o
+ .text._ZN5Print5printEii
+                0x0000000000000000       0x10 ./Source/stream/Print.o
+ .text._ZN5Print7printlnEii
+                0x0000000000000000       0x30 ./Source/stream/Print.o
+ .text._ZN5Print7printlnEli
+                0x0000000000000000       0x24 ./Source/stream/Print.o
+ .text._ZN5Print5printEmi
+                0x0000000000000000        0x4 ./Source/stream/Print.o
+ .text._ZN5Print5printEhi
+                0x0000000000000000        0xe ./Source/stream/Print.o
+ .text._ZN5Print7printlnEhi
+                0x0000000000000000       0x2e ./Source/stream/Print.o
+ .text._ZN5Print5printEji
+                0x0000000000000000        0xc ./Source/stream/Print.o
+ .text._ZN5Print7printlnEji
+                0x0000000000000000       0x2c ./Source/stream/Print.o
+ .text._ZN5Print7printlnEmi
+                0x0000000000000000       0x24 ./Source/stream/Print.o
+ .text._ZN5Print10printFloatEfi
+                0x0000000000000000      0x16c ./Source/stream/Print.o
+ .text._ZN5Print5printEdi
+                0x0000000000000000        0x4 ./Source/stream/Print.o
+ .text._ZN5Print7printlnEdi
+                0x0000000000000000       0x24 ./Source/stream/Print.o
+ .group         0x0000000000000000        0x8 ./Source/stream/Stream.o
+ .group         0x0000000000000000        0x8 ./Source/stream/Stream.o
+ .group         0x0000000000000000        0x8 ./Source/stream/Stream.o
+ .group         0x0000000000000000        0x8 ./Source/stream/Stream.o
+ .group         0x0000000000000000        0x8 ./Source/stream/Stream.o
+ .group         0x0000000000000000        0x8 ./Source/stream/Stream.o
+ .text          0x0000000000000000        0x0 ./Source/stream/Stream.o
+ .bss           0x0000000000000000        0x0 ./Source/stream/Stream.o
+ .text._ZN5Print5writeEc
+                0x0000000000000000        0x6 ./Source/stream/Stream.o
+ .text._ZN6Stream9timedReadEv
+                0x0000000000000000       0x8a ./Source/stream/Stream.o
+ .text._ZN6Stream9timedPeekEv
+                0x0000000000000000       0x8a ./Source/stream/Stream.o
+ .text._ZN6Stream13peekNextDigitEv
+                0x0000000000000000       0x38 ./Source/stream/Stream.o
+ .text._ZN6Stream10setTimeoutEm
+                0x0000000000000000        0xc ./Source/stream/Stream.o
+ .text._ZN6Stream8parseIntEc
+                0x0000000000000000       0xda ./Source/stream/Stream.o
+ .text._ZN6Stream8parseIntEv
+                0x0000000000000000        0x6 ./Source/stream/Stream.o
+ .text._ZN6Stream10parseFloatEc
+                0x0000000000000000      0x100 ./Source/stream/Stream.o
+ .text._ZN6Stream10parseFloatEv
+                0x0000000000000000        0x6 ./Source/stream/Stream.o
+ .text._ZN6Stream9readBytesEPcj
+                0x0000000000000000       0x46 ./Source/stream/Stream.o
+ .text._ZN6Stream14readBytesUntilEcPcj
+                0x0000000000000000       0x66 ./Source/stream/Stream.o
+ .text._ZN6Stream9findMultiEPNS_11MultiTargetEi
+                0x0000000000000000      0x132 ./Source/stream/Stream.o
+ .text._ZN6Stream9findUntilEPcjS0_j.part.0
+                0x0000000000000000       0x4a ./Source/stream/Stream.o
+ .text._ZN6Stream9findUntilEPcjS0_j
+                0x0000000000000000       0x74 ./Source/stream/Stream.o
+ .text._ZN6Stream9findUntilEPcS0_
+                0x0000000000000000       0x34 ./Source/stream/Stream.o
+ .text._ZN6Stream4findEPcj
+                0x0000000000000000        0x4 ./Source/stream/Stream.o
+ .text._ZN6Stream4findEPc
+                0x0000000000000000       0x16 ./Source/stream/Stream.o
+ .text          0x0000000000000000        0x0 ./Source/SD/utility/Sd2Card.o
+ .bss           0x0000000000000000        0x0 ./Source/SD/utility/Sd2Card.o
+ .text._Z13SPItransfer16j
+                0x0000000000000000       0x2c ./Source/SD/utility/Sd2Card.o
+ .text._Z11SPItransferPvj
+                0x0000000000000000       0x30 ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card14chipSelectHighEv
+                0x0000000000000000        0x4 ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card13chipSelectLowEv
+                0x0000000000000000        0x4 ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card16partialBlockReadEh
+                0x0000000000000000       0x28 ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card12readRegisterEhPv
+                0x0000000000000000       0x60 ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card8cardSizeEv
+                0x0000000000000000       0xfc ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card22eraseSingleBlockEnableEv
+                0x0000000000000000       0x42 ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card5eraseEmm
+                0x0000000000000000       0xd8 ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card9writeDataEPKh
+                0x0000000000000000       0x3e ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card10writeStartEmm
+                0x0000000000000000       0x9c ./Source/SD/utility/Sd2Card.o
+ .text._ZN7Sd2Card9writeStopEv
+                0x0000000000000000       0x3e ./Source/SD/utility/Sd2Card.o
+ .group         0x0000000000000000        0x8 ./Source/SD/utility/SdFile.o
+ .text          0x0000000000000000        0x0 ./Source/SD/utility/SdFile.o
+ .bss           0x0000000000000000        0x0 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile15contiguousRangeEPmS0_
+                0x0000000000000000      0x15c ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile7dirNameERK14directoryEntryPc
+                0x0000000000000000       0x3c ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile12printDirNameERK14directoryEntryh
+                0x0000000000000000        0x2 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile12printFatDateEj
+                0x0000000000000000        0x2 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile12printFatTimeEj
+                0x0000000000000000        0x2 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile14printTwoDigitsEh
+                0x0000000000000000        0x2 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile7readDirEP14directoryEntry
+                0x0000000000000000       0x68 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile8dirEntryEP14directoryEntry
+                0x0000000000000000       0x3e ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile9timestampEhjhhhhh
+                0x0000000000000000      0x134 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile7makeDirEPS_PKc
+                0x0000000000000000      0x1c0 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile4openEPS_jh
+                0x0000000000000000       0x8c ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile2lsEhh
+                0x0000000000000000      0x108 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile6removeEv
+                0x0000000000000000       0x38 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile16createContiguousEPS_PKcm
+                0x0000000000000000       0xa4 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile6removeEPS_PKc
+                0x0000000000000000       0x6a ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile5rmDirEv
+                0x0000000000000000       0x80 ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile8rmRfStarEv
+                0x0000000000000000      0x14c ./Source/SD/utility/SdFile.o
+ .text._ZN6SdFile5writeEPKc
+                0x0000000000000000       0x16 ./Source/SD/utility/SdFile.o
+ .bss._ZN6SdFile12oldDateTime_E
+                0x0000000000000000        0x2 ./Source/SD/utility/SdFile.o
+ .text          0x0000000000000000        0x0 ./Source/SD/utility/SdVolume.o
+ .bss           0x0000000000000000        0x0 ./Source/SD/utility/SdVolume.o
+ .group         0x0000000000000000        0x8 ./Source/SD/File.o
+ .group         0x0000000000000000        0x8 ./Source/SD/File.o
+ .text          0x0000000000000000        0x0 ./Source/SD/File.o
+ .bss           0x0000000000000000        0x0 ./Source/SD/File.o
+ .text._ZN4File4nameEv
+                0x0000000000000000        0x4 ./Source/SD/File.o
+ .text._ZN4File11isDirectoryEv
+                0x0000000000000000       0x1a ./Source/SD/File.o
+ .text._ZN4File4readEPvj
+                0x0000000000000000       0x14 ./Source/SD/File.o
+ .group         0x0000000000000000        0x8 ./Source/SD/SD.o
+ .group         0x0000000000000000        0x8 ./Source/SD/SD.o
+ .text          0x0000000000000000        0x0 ./Source/SD/SD.o
+ .bss           0x0000000000000000        0x0 ./Source/SD/SD.o
+ .text._Z15callback_removeR6SdFilePccPv
+                0x0000000000000000        0xa ./Source/SD/SD.o
+ .text._Z19callback_pathExistsR6SdFilePccPv
+                0x0000000000000000       0x60 ./Source/SD/SD.o
+ .text._Z20callback_makeDirPathR6SdFilePccPv
+                0x0000000000000000       0x66 ./Source/SD/SD.o
+ .text._Z14callback_rmdirR6SdFilePccPv
+                0x0000000000000000       0x68 ./Source/SD/SD.o
+ .text._Z20getNextPathComponentPcPjS_
+                0x0000000000000000       0x70 ./Source/SD/SD.o
+ .text._Z8walkPathPcR6SdFilePFcS1_S_cPvES2_
+                0x0000000000000000      0x116 ./Source/SD/SD.o
+ .text._ZN7SDClass6existsEPc
+                0x0000000000000000       0x16 ./Source/SD/SD.o
+ .text._ZN7SDClass5mkdirEPc
+                0x0000000000000000       0x16 ./Source/SD/SD.o
+ .text._ZN7SDClass5rmdirEPc
+                0x0000000000000000       0x16 ./Source/SD/SD.o
+ .text._ZN7SDClass6removeEPc
+                0x0000000000000000       0x16 ./Source/SD/SD.o
+ .text._ZN4File12openNextFileEh
+                0x0000000000000000       0xc6 ./Source/SD/SD.o
+ .text._ZN4File15rewindDirectoryEv
+                0x0000000000000000       0x28 ./Source/SD/SD.o
+ .text          0x0000000000000000        0x0 ./Source/CPU/Timer.o
+ .bss           0x0000000000000000        0x0 ./Source/CPU/Timer.o
+ .text._ZN5Timer7setTimeEm
+                0x0000000000000000        0xc ./Source/CPU/Timer.o
+ .text._ZN5Timer7getTimeEv
+                0x0000000000000000        0xc ./Source/CPU/Timer.o
+ .text._ZN5Timer7reStartEv
+                0x0000000000000000       0x18 ./Source/CPU/Timer.o
+ .text._ZN5Timer4stopEv
+                0x0000000000000000        0x6 ./Source/CPU/Timer.o
+ .text._ZN5TimerC2Ev
+                0x0000000000000000       0x16 ./Source/CPU/Timer.o
+ .text          0x0000000000000000        0x0 ./Source/CPU/auxiliar.o
+ .bss           0x0000000000000000        0x0 ./Source/CPU/auxiliar.o
+ .text._ZdaPv   0x0000000000000000        0x4 ./Source/CPU/auxiliar.o
+ .data.PINDbits
+                0x0000000000000000        0x2 ./Source/CPU/auxiliar.o
+ .data.PINCbits
+                0x0000000000000000        0x2 ./Source/CPU/auxiliar.o
+ .data.PINBbits
+                0x0000000000000000        0x2 ./Source/CPU/auxiliar.o
+ .data.DDRDbits
+                0x0000000000000000        0x2 ./Source/CPU/auxiliar.o
+ .data.DDRCbits
+                0x0000000000000000        0x2 ./Source/CPU/auxiliar.o
+ .data.DDRBbits
+                0x0000000000000000        0x2 ./Source/CPU/auxiliar.o
+ .data.PORTDbits
+                0x0000000000000000        0x2 ./Source/CPU/auxiliar.o
+ .data.PORTCbits
+                0x0000000000000000        0x2 ./Source/CPU/auxiliar.o
+ .group         0x0000000000000000        0x8 ./Source/AvrSerial/avrSerial.o
+ .group         0x0000000000000000        0x8 ./Source/AvrSerial/avrSerial.o
+ .text          0x0000000000000000        0x0 ./Source/AvrSerial/avrSerial.o
+ .bss           0x0000000000000000        0x0 ./Source/AvrSerial/avrSerial.o
+ .text._ZN9AvrSerialC2El
+                0x0000000000000000       0x8c ./Source/AvrSerial/avrSerial.o
+ .text._ZN9AvrSerial4readEv
+                0x0000000000000000        0x8 ./Source/AvrSerial/avrSerial.o
+ .text._ZN9AvrSerial12setInterruptEPFvvE
+                0x0000000000000000       0x16 ./Source/AvrSerial/avrSerial.o
+ .text._ZN9AvrSerial15removeInterruptEv
+                0x0000000000000000       0x12 ./Source/AvrSerial/avrSerial.o
+ .text._ZN9AvrSerial10getBaudiosEv
+                0x0000000000000000        0xc ./Source/AvrSerial/avrSerial.o
+ .text._ZN9AvrSerial10setBaudiosEl
+                0x0000000000000000       0x28 ./Source/AvrSerial/avrSerial.o
+ .text          0x0000000000000000        0x0 ./Source/main.o
+ .bss           0x0000000000000000        0x0 ./Source/main.o
+ .text._Z5buclev
+                0x0000000000000000        0x2 ./Source/main.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xa /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xc0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x58 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x7a /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x48 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xc /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x22 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x44 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x4 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xc2 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(memcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(memcmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strncpy.o)
+
+Configuración de la Memoria
+
+Nombre           Origen             Longitud           Atributos
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Guión del enlazador y mapa de memoria
+
+La dirección de la sección .data se estableció a 0x800100
+LOAD /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+LOAD ./Source/stream/Print.o
+LOAD ./Source/stream/Stream.o
+LOAD ./Source/SD/utility/Sd2Card.o
+LOAD ./Source/SD/utility/SdFile.o
+LOAD ./Source/SD/utility/SdVolume.o
+LOAD ./Source/SD/File.o
+LOAD ./Source/SD/SD.o
+LOAD ./Source/CPU/Timer.o
+LOAD ./Source/CPU/auxiliar.o
+LOAD ./Source/AvrSerial/avrSerial.o
+LOAD ./Source/main.o
+LOAD /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a
+START GROUP
+LOAD /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x2c7e
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *(.progmem*)
+                0x0000000000000068                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000068                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000000000000068        0x2 ./Source/SD/SD.o
+ .ctors         0x000000000000006a        0x2 ./Source/CPU/Timer.o
+ .ctors         0x000000000000006c        0x2 ./Source/main.o
+                0x000000000000006e                __ctors_end = .
+                0x000000000000006e                __dtors_start = .
+ *(.dtors)
+                0x000000000000006e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000006e        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+                0x000000000000006e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000006e        0xc /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000000000007a       0x16 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                0x000000000000007a                __do_copy_data
+ .init4         0x0000000000000090       0x10 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                0x0000000000000090                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000000000000a0       0x16 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                0x00000000000000a0                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000b6        0x8 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000000be        0x2 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+                0x00000000000000be                __vector_22
+                0x00000000000000be                __vector_1
+                0x00000000000000be                __vector_24
+                0x00000000000000be                __vector_12
+                0x00000000000000be                __bad_interrupt
+                0x00000000000000be                __vector_6
+                0x00000000000000be                __vector_3
+                0x00000000000000be                __vector_23
+                0x00000000000000be                __vector_25
+                0x00000000000000be                __vector_11
+                0x00000000000000be                __vector_13
+                0x00000000000000be                __vector_17
+                0x00000000000000be                __vector_19
+                0x00000000000000be                __vector_7
+                0x00000000000000be                __vector_5
+                0x00000000000000be                __vector_4
+                0x00000000000000be                __vector_9
+                0x00000000000000be                __vector_2
+                0x00000000000000be                __vector_21
+                0x00000000000000be                __vector_15
+                0x00000000000000be                __vector_8
+                0x00000000000000be                __vector_10
+                0x00000000000000be                __vector_16
+                0x00000000000000be                __vector_20
+                0x00000000000000c0                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN5Print5writeEc
+                0x00000000000000c0        0x6 ./Source/stream/Print.o
+                0x00000000000000c0                _ZN5Print5writeEc
+ .text._ZN5Print5writeEPKci
+                0x00000000000000c6       0x50 ./Source/stream/Print.o
+                0x00000000000000c6                _ZN5Print5writeEPKci
+ .text._ZN5PrintC2Ev
+                0x0000000000000116        0xc ./Source/stream/Print.o
+                0x0000000000000116                _ZN5PrintC1Ev
+                0x0000000000000116                _ZN5PrintC2Ev
+ .text._ZN5Print5writeEPc
+                0x0000000000000122       0x20 ./Source/stream/Print.o
+                0x0000000000000122                _ZN5Print5writeEPc
+ .text._ZN5Print7printlnEv
+                0x0000000000000142       0x10 ./Source/stream/Print.o
+                0x0000000000000142                _ZN5Print7printlnEv
+ .text._ZN5Print5printEPKc
+                0x0000000000000152        0x2 ./Source/stream/Print.o
+                0x0000000000000152                _ZN5Print5printEPKc
+ .text._ZN5Print7printlnEPKc
+                0x0000000000000154       0x20 ./Source/stream/Print.o
+                0x0000000000000154                _ZN5Print7printlnEPKc
+ .text._ZN6Stream9availableEv
+                0x0000000000000174        0x6 ./Source/stream/Stream.o
+                0x0000000000000174                _ZN6Stream9availableEv
+ .text._ZN6Stream4readEv
+                0x000000000000017a        0x6 ./Source/stream/Stream.o
+                0x000000000000017a                _ZN6Stream4readEv
+ .text._ZN6Stream4peekEv
+                0x0000000000000180        0x6 ./Source/stream/Stream.o
+                0x0000000000000180                _ZN6Stream4peekEv
+ .text._ZN6Stream5flushEv
+                0x0000000000000186        0x2 ./Source/stream/Stream.o
+                0x0000000000000186                _ZN6Stream5flushEv
+ .text._ZN6StreamC2Ev
+                0x0000000000000188       0x26 ./Source/stream/Stream.o
+                0x0000000000000188                _ZN6StreamC2Ev
+                0x0000000000000188                _ZN6StreamC1Ev
+ .text._ZN6StreamD2Ev
+                0x00000000000001ae        0xc ./Source/stream/Stream.o
+                0x00000000000001ae                _ZN6StreamD1Ev
+                0x00000000000001ae                _ZN6StreamD2Ev
+ .text._Z11SPItransferh
+                0x00000000000001ba        0xc ./Source/SD/utility/Sd2Card.o
+                0x00000000000001ba                _Z11SPItransferh
+ .text._ZL6spiRecv
+                0x00000000000001c6        0x4 ./Source/SD/utility/Sd2Card.o
+ .text._Z13SPIchipSelectv
+                0x00000000000001ca       0x10 ./Source/SD/utility/Sd2Card.o
+                0x00000000000001ca                _Z13SPIchipSelectv
+ .text._Z15SPIchipDeSelectv
+                0x00000000000001da       0x10 ./Source/SD/utility/Sd2Card.o
+                0x00000000000001da                _Z15SPIchipDeSelectv
+ .text._Z7SPIinitv
+                0x00000000000001ea       0x12 ./Source/SD/utility/Sd2Card.o
+                0x00000000000001ea                _Z7SPIinitv
+ .text._Z13SPIsetSckRateh
+                0x00000000000001fc       0x2a ./Source/SD/utility/Sd2Card.o
+                0x00000000000001fc                _Z13SPIsetSckRateh
+ .text._ZN7Sd2Card7readEndEv
+                0x0000000000000226       0x2e ./Source/SD/utility/Sd2Card.o
+                0x0000000000000226                _ZN7Sd2Card7readEndEv
+ .text._ZN7Sd2Card11waitNotBusyEj
+                0x0000000000000254       0x68 ./Source/SD/utility/Sd2Card.o
+                0x0000000000000254                _ZN7Sd2Card11waitNotBusyEj
+ .text._ZN7Sd2Card11cardCommandEhm
+                0x00000000000002bc       0xb4 ./Source/SD/utility/Sd2Card.o
+                0x00000000000002bc                _ZN7Sd2Card11cardCommandEhm
+ .text._ZN7Sd2Card4initEv
+                0x0000000000000370      0x150 ./Source/SD/utility/Sd2Card.o
+                0x0000000000000370                _ZN7Sd2Card4initEv
+ .text._ZN7Sd2Card14waitStartBlockEv
+                0x00000000000004c0       0x7e ./Source/SD/utility/Sd2Card.o
+                0x00000000000004c0                _ZN7Sd2Card14waitStartBlockEv
+ .text._ZN7Sd2Card8readDataEmjjPh
+                0x000000000000053e       0xf0 ./Source/SD/utility/Sd2Card.o
+                0x000000000000053e                _ZN7Sd2Card8readDataEmjjPh
+ .text._ZN7Sd2Card9readBlockEmPh
+                0x000000000000062e       0x1e ./Source/SD/utility/Sd2Card.o
+                0x000000000000062e                _ZN7Sd2Card9readBlockEmPh
+ .text._ZN7Sd2Card9writeDataEhPKh
+                0x000000000000064c       0x76 ./Source/SD/utility/Sd2Card.o
+                0x000000000000064c                _ZN7Sd2Card9writeDataEhPKh
+ .text._ZN7Sd2Card10writeBlockEmPKh
+                0x00000000000006c2       0x8a ./Source/SD/utility/Sd2Card.o
+                0x00000000000006c2                _ZN7Sd2Card10writeBlockEmPKh
+ .text._ZN6SdFile10addClusterEv
+                0x000000000000074c       0x54 ./Source/SD/utility/SdFile.o
+                0x000000000000074c                _ZN6SdFile10addClusterEv
+ .text._ZN6SdFile13addDirClusterEv
+                0x00000000000007a0       0xbe ./Source/SD/utility/SdFile.o
+                0x00000000000007a0                _ZN6SdFile13addDirClusterEv
+ .text._ZN6SdFile13cacheDirEntryEh
+                0x000000000000085e       0x30 ./Source/SD/utility/SdFile.o
+                0x000000000000085e                _ZN6SdFile13cacheDirEntryEh
+ .text._ZN6SdFile10make83NameEPKcPh
+                0x000000000000088e       0xb2 ./Source/SD/utility/SdFile.o
+                0x000000000000088e                _ZN6SdFile10make83NameEPKcPh
+ .text._ZN6SdFile8openRootEP8SdVolume
+                0x0000000000000940       0x9e ./Source/SD/utility/SdFile.o
+                0x0000000000000940                _ZN6SdFile8openRootEP8SdVolume
+ .text._ZN6SdFile4readEPvj
+                0x00000000000009de      0x20a ./Source/SD/utility/SdFile.o
+                0x00000000000009de                _ZN6SdFile4readEPvj
+ .text._ZN6SdFile12readDirCacheEv
+                0x0000000000000be8       0x94 ./Source/SD/utility/SdFile.o
+                0x0000000000000be8                _ZN6SdFile12readDirCacheEv
+ .text._ZN6SdFile7seekSetEm
+                0x0000000000000c7c      0x136 ./Source/SD/utility/SdFile.o
+                0x0000000000000c7c                _ZN6SdFile7seekSetEm
+ .text._ZN6SdFile4syncEv
+                0x0000000000000db2       0x8a ./Source/SD/utility/SdFile.o
+                0x0000000000000db2                _ZN6SdFile4syncEv
+ .text._ZN6SdFile5closeEv
+                0x0000000000000e3c       0x1a ./Source/SD/utility/SdFile.o
+                0x0000000000000e3c                _ZN6SdFile5closeEv
+ .text._ZN6SdFile8truncateEm
+                0x0000000000000e56      0x162 ./Source/SD/utility/SdFile.o
+                0x0000000000000e56                _ZN6SdFile8truncateEm
+ .text._ZN6SdFile15openCachedEntryEhh
+                0x0000000000000fb8       0xd8 ./Source/SD/utility/SdFile.o
+                0x0000000000000fb8                _ZN6SdFile15openCachedEntryEhh
+ .text._ZN6SdFile4openEPS_PKch
+                0x0000000000001090      0x1be ./Source/SD/utility/SdFile.o
+                0x0000000000001090                _ZN6SdFile4openEPS_PKch
+ .text._ZN6SdFile5writeEPKvi
+                0x000000000000124e      0x32a ./Source/SD/utility/SdFile.o
+                0x000000000000124e                _ZN6SdFile5writeEPKvi
+ .text._ZN6SdFile5writeEc
+                0x0000000000001578       0x20 ./Source/SD/utility/SdFile.o
+                0x0000000000001578                _ZN6SdFile5writeEc
+ .text._ZN8SdVolume10cacheFlushEv
+                0x0000000000001598       0x72 ./Source/SD/utility/SdVolume.o
+                0x0000000000001598                _ZN8SdVolume10cacheFlushEv
+ .text._ZN8SdVolume13cacheRawBlockEmh
+                0x000000000000160a       0x74 ./Source/SD/utility/SdVolume.o
+                0x000000000000160a                _ZN8SdVolume13cacheRawBlockEmh
+ .text._ZN8SdVolume14cacheZeroBlockEm
+                0x000000000000167e       0x4a ./Source/SD/utility/SdVolume.o
+                0x000000000000167e                _ZN8SdVolume14cacheZeroBlockEm
+ .text._ZNK8SdVolume6fatGetEmPm
+                0x00000000000016c8      0x106 ./Source/SD/utility/SdVolume.o
+                0x00000000000016c8                _ZNK8SdVolume6fatGetEmPm
+ .text._ZNK8SdVolume9chainSizeEmPm
+                0x00000000000017ce       0xd4 ./Source/SD/utility/SdVolume.o
+                0x00000000000017ce                _ZNK8SdVolume9chainSizeEmPm
+ .text._ZN8SdVolume6fatPutEmm
+                0x00000000000018a2      0x140 ./Source/SD/utility/SdVolume.o
+                0x00000000000018a2                _ZN8SdVolume6fatPutEmm
+ .text._ZN8SdVolume15allocContiguousEmPm
+                0x00000000000019e2      0x222 ./Source/SD/utility/SdVolume.o
+                0x00000000000019e2                _ZN8SdVolume15allocContiguousEmPm
+ .text._ZN8SdVolume9freeChainEm
+                0x0000000000001c04       0xa8 ./Source/SD/utility/SdVolume.o
+                0x0000000000001c04                _ZN8SdVolume9freeChainEm
+ .text._ZN8SdVolume4initEP7Sd2Cardh
+                0x0000000000001cac      0x222 ./Source/SD/utility/SdVolume.o
+                0x0000000000001cac                _ZN8SdVolume4initEP7Sd2Cardh
+ .text._ZN4File5writeEc
+                0x0000000000001ece       0x2c ./Source/SD/File.o
+                0x0000000000001ece                _ZN4File5writeEc
+ .text._ZN4File5writeEPKci
+                0x0000000000001efa       0x12 ./Source/SD/File.o
+                0x0000000000001efa                _ZN4File5writeEPKci
+ .text._ZN4File5flushEv
+                0x0000000000001f0c       0x10 ./Source/SD/File.o
+                0x0000000000001f0c                _ZN4File5flushEv
+ .text._ZN6SdFile4readEv
+                0x0000000000001f1c       0x2e ./Source/SD/File.o
+                0x0000000000001f1c                _ZN6SdFile4readEv
+ .text._ZN4File4readEv
+                0x0000000000001f4a       0x12 ./Source/SD/File.o
+                0x0000000000001f4a                _ZN4File4readEv
+ .text._ZN4File4peekEv
+                0x0000000000001f5c       0x54 ./Source/SD/File.o
+                0x0000000000001f5c                _ZN4File4peekEv
+ .text._ZN4FileC2E6SdFilePKc
+                0x0000000000001fb0       0x56 ./Source/SD/File.o
+                0x0000000000001fb0                _ZN4FileC2E6SdFilePKc
+                0x0000000000001fb0                _ZN4FileC1E6SdFilePKc
+ .text._ZN4FileC2Ev
+                0x0000000000002006       0x1e ./Source/SD/File.o
+                0x0000000000002006                _ZN4FileC1Ev
+                0x0000000000002006                _ZN4FileC2Ev
+ .text._ZN4File4seekEm
+                0x0000000000002024       0x12 ./Source/SD/File.o
+                0x0000000000002024                _ZN4File4seekEm
+ .text._ZN4File8positionEv
+                0x0000000000002036       0x20 ./Source/SD/File.o
+                0x0000000000002036                _ZN4File8positionEv
+ .text._ZN4File4sizeEv
+                0x0000000000002056       0x20 ./Source/SD/File.o
+                0x0000000000002056                _ZN4File4sizeEv
+ .text._ZN4File9availableEv
+                0x0000000000002076       0x5a ./Source/SD/File.o
+                0x0000000000002076                _ZN4File9availableEv
+ .text._ZN4File5closeEv
+                0x00000000000020d0       0x22 ./Source/SD/File.o
+                0x00000000000020d0                _ZN4File5closeEv
+ .text._ZN4FilecvbEv
+                0x00000000000020f2       0x1a ./Source/SD/File.o
+                0x00000000000020f2                _ZN4FilecvbEv
+ .text._ZN6SdFileC2Ev
+                0x000000000000210c       0x1a ./Source/SD/SD.o
+                0x000000000000210c                _ZN6SdFileC2Ev
+                0x000000000000210c                _ZN6SdFileC1Ev
+ .text._ZN7SDClass5beginEv
+                0x0000000000002126       0x56 ./Source/SD/SD.o
+                0x0000000000002126                _ZN7SDClass5beginEv
+ .text._ZN6SdFileC2ERKS_
+                0x000000000000217c       0x96 ./Source/SD/SD.o
+                0x000000000000217c                _ZN6SdFileC2ERKS_
+                0x000000000000217c                _ZN6SdFileC1ERKS_
+ .text._ZN7SDClass12getParentDirEPKcPi
+                0x0000000000002212      0x118 ./Source/SD/SD.o
+                0x0000000000002212                _ZN7SDClass12getParentDirEPKcPi
+ .text._ZN7SDClass4openEPKch
+                0x000000000000232a       0xf6 ./Source/SD/SD.o
+                0x000000000000232a                _ZN7SDClass4openEPKch
+ .text.startup._GLOBAL__sub_I__Z20getNextPathComponentPcPjS_
+                0x0000000000002420       0x32 ./Source/SD/SD.o
+ .text._ZN5Timer5startEv
+                0x0000000000002452       0x20 ./Source/CPU/Timer.o
+                0x0000000000002452                _ZN5Timer5startEv
+ .text._ZN5Timer10checkTimerEv
+                0x0000000000002472        0xe ./Source/CPU/Timer.o
+                0x0000000000002472                _ZN5Timer10checkTimerEv
+ .text._ZN5Timer11updateTimerEv
+                0x0000000000002480       0x40 ./Source/CPU/Timer.o
+                0x0000000000002480                _ZN5Timer11updateTimerEv
+ .text._ZN9TimersIntC2Ev
+                0x00000000000024c0       0x1a ./Source/CPU/Timer.o
+                0x00000000000024c0                _ZN9TimersIntC2Ev
+                0x00000000000024c0                _ZN9TimersIntC1Ev
+ .text._ZN9TimersInt8addTimerEP5Timer
+                0x00000000000024da       0x92 ./Source/CPU/Timer.o
+                0x00000000000024da                _ZN9TimersInt8addTimerEP5Timer
+ .text._ZN5TimerC2Em
+                0x000000000000256c       0x14 ./Source/CPU/Timer.o
+                0x000000000000256c                _ZN5TimerC1Em
+                0x000000000000256c                _ZN5TimerC2Em
+ .text._ZN9TimersInt8delTimerEP5Timer
+                0x0000000000002580       0xb2 ./Source/CPU/Timer.o
+                0x0000000000002580                _ZN9TimersInt8delTimerEP5Timer
+ .text._ZN5TimerD2Ev
+                0x0000000000002632        0x8 ./Source/CPU/Timer.o
+                0x0000000000002632                _ZN5TimerD1Ev
+                0x0000000000002632                _ZN5TimerD2Ev
+ .text._ZN9TimersInt12updateTimersEv
+                0x000000000000263a       0x42 ./Source/CPU/Timer.o
+                0x000000000000263a                _ZN9TimersInt12updateTimersEv
+ .text.__vector_14
+                0x000000000000267c       0x4a ./Source/CPU/Timer.o
+                0x000000000000267c                __vector_14
+ .text.startup._GLOBAL__sub_I___vector_14
+                0x00000000000026c6        0x6 ./Source/CPU/Timer.o
+ .text._Znwj    0x00000000000026cc        0x2 ./Source/CPU/auxiliar.o
+                0x00000000000026cc                _Znwj
+ .text._Znaj    0x00000000000026ce        0x2 ./Source/CPU/auxiliar.o
+                0x00000000000026ce                _Znaj
+ .text._ZdlPv   0x00000000000026d0        0x2 ./Source/CPU/auxiliar.o
+                0x00000000000026d0                _ZdlPv
+ .text.__vector_18
+                0x00000000000026d2       0x5a ./Source/AvrSerial/avrSerial.o
+                0x00000000000026d2                __vector_18
+ .text._ZN9AvrSerialC2Ev
+                0x000000000000272c       0x50 ./Source/AvrSerial/avrSerial.o
+                0x000000000000272c                _ZN9AvrSerialC2Ev
+                0x000000000000272c                _ZN9AvrSerialC1Ev
+ .text._ZN9AvrSerial5beginEl
+                0x000000000000277c       0x44 ./Source/AvrSerial/avrSerial.o
+                0x000000000000277c                _ZN9AvrSerial5beginEl
+ .text._ZN9AvrSerial14USART_TransmitEh
+                0x00000000000027c0        0xe ./Source/AvrSerial/avrSerial.o
+                0x00000000000027c0                _ZN9AvrSerial14USART_TransmitEh
+ .text._ZN9AvrSerial5writeEc
+                0x00000000000027ce        0x8 ./Source/AvrSerial/avrSerial.o
+                0x00000000000027ce                _ZN9AvrSerial5writeEc
+ .text._Z15configuracionesv
+                0x00000000000027d6      0x144 ./Source/main.o
+                0x00000000000027d6                _Z15configuracionesv
+ .text.startup.main
+                0x000000000000291a        0x4 ./Source/main.o
+                0x000000000000291a                main
+ .text.startup._GLOBAL__sub_I_serial
+                0x000000000000291e        0x6 ./Source/main.o
+ .text.libgcc.div
+                0x0000000000002924       0x44 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000002924                __udivmodsi4
+ .text.libgcc.div
+                0x0000000000002968       0x28 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                0x0000000000002968                __divmodsi4
+ .text.libgcc.div
+                0x0000000000002990       0x10 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+                0x0000000000002990                __negsi2
+ .text.libgcc.mul
+                0x00000000000029a0       0x14 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+                0x00000000000029a0                __muluhisi3
+ .text.libgcc   0x00000000000029b4        0xc /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                0x00000000000029b4                __tablejump2__
+                0x00000000000029b8                __tablejump__
+ .text.libgcc.mul
+                0x00000000000029c0       0x1e /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+                0x00000000000029c0                __umulhisi3
+ .text.avr-libc
+                0x00000000000029de      0x24e /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x00000000000029de                malloc
+                0x0000000000002b0e                free
+ .text.avr-libc
+                0x0000000000002c2c       0x1a /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(memcmp.o)
+                0x0000000000002c2c                memcmp
+ .text.avr-libc
+                0x0000000000002c46       0x16 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strchr.o)
+                0x0000000000002c46                strchr
+ .text.avr-libc
+                0x0000000000002c5c       0x1e /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strncpy.o)
+                0x0000000000002c5c                strncpy
+                0x0000000000002c7a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000002c7a        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                0x0000000000002c7a                exit
+                0x0000000000002c7a                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000002c7a        0x4 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000002c7e                _etext = .
+
+.data           0x0000000000800100      0x11a dirección de carga 0x0000000000002c7e
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+ .data          0x0000000000800100        0x0 ./Source/stream/Print.o
+ .data          0x0000000000800100        0x0 ./Source/stream/Stream.o
+ .data          0x0000000000800100        0x0 ./Source/SD/utility/Sd2Card.o
+ .data          0x0000000000800100        0x0 ./Source/SD/utility/SdFile.o
+ .data          0x0000000000800100        0x0 ./Source/SD/utility/SdVolume.o
+ .data          0x0000000000800100        0x0 ./Source/SD/File.o
+ .data          0x0000000000800100        0x0 ./Source/SD/SD.o
+ .data          0x0000000000800100        0x0 ./Source/CPU/Timer.o
+ .data          0x0000000000800100        0x0 ./Source/CPU/auxiliar.o
+ .data          0x0000000000800100        0x0 ./Source/AvrSerial/avrSerial.o
+ .data          0x0000000000800100        0x0 ./Source/main.o
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x0000000000800100        0x6 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0000000000800100                __malloc_heap_end
+                0x0000000000800102                __malloc_heap_start
+                0x0000000000800104                __malloc_margin
+ .data          0x0000000000800106        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(memcmp.o)
+ .data          0x0000000000800106        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strchr.o)
+ .data          0x0000000000800106        0x0 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strncpy.o)
+ *(.data*)
+ .data._ZN8SdVolume17cacheBlockNumber_E
+                0x0000000000800106        0x4 ./Source/SD/utility/SdVolume.o
+                0x0000000000800106                _ZN8SdVolume17cacheBlockNumber_E
+ .data.PORTBbits
+                0x000000000080010a        0x2 ./Source/CPU/auxiliar.o
+                0x000000000080010a                PORTBbits
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV5Print
+                0x000000000080010c        0x8 ./Source/stream/Print.o
+                0x000000000080010c                _ZTV5Print
+ .rodata._ZTV6Stream
+                0x0000000000800114       0x10 ./Source/stream/Stream.o
+                0x0000000000800114                _ZTV6Stream
+ .rodata.str1.1
+                0x0000000000800124       0x10 ./Source/SD/utility/SdFile.o
+ .rodata._ZTV6SdFile
+                0x0000000000800134        0x8 ./Source/SD/utility/SdFile.o
+                0x0000000000800134                _ZTV6SdFile
+ .rodata._ZTV4File
+                0x000000000080013c       0x10 ./Source/SD/File.o
+                0x000000000080013c                _ZTV4File
+ .rodata.str1.1
+                0x000000000080014c        0x2 ./Source/SD/SD.o
+ .rodata._ZTV9AvrSerial
+                0x000000000080014e        0x8 ./Source/AvrSerial/avrSerial.o
+                0x000000000080014e                _ZTV9AvrSerial
+ .rodata.str1.1
+                0x0000000000800156       0x8e ./Source/main.o
+ .rodata._ZL7formato
+                0x00000000008001e4       0x36 ./Source/main.o
+ *(.gnu.linkonce.d*)
+                0x000000000080021a                . = ALIGN (0x2)
+                0x000000000080021a                _edata = .
+                0x000000000080021a                PROVIDE (__data_end, .)
+
+.bss            0x000000000080021a      0x261
+                0x000000000080021a                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss._ZN6SdFile9dateTime_E
+                0x000000000080021a        0x2 ./Source/SD/utility/SdFile.o
+                0x000000000080021a                _ZN6SdFile9dateTime_E
+ .bss._ZN8SdVolume17cacheMirrorBlock_E
+                0x000000000080021c        0x4 ./Source/SD/utility/SdVolume.o
+                0x000000000080021c                _ZN8SdVolume17cacheMirrorBlock_E
+ .bss._ZN8SdVolume11cacheDirty_E
+                0x0000000000800220        0x1 ./Source/SD/utility/SdVolume.o
+                0x0000000000800220                _ZN8SdVolume11cacheDirty_E
+ .bss._ZN8SdVolume7sdCard_E
+                0x0000000000800221        0x2 ./Source/SD/utility/SdVolume.o
+                0x0000000000800221                _ZN8SdVolume7sdCard_E
+ .bss._ZN8SdVolume12cacheBuffer_E
+                0x0000000000800223      0x200 ./Source/SD/utility/SdVolume.o
+                0x0000000000800223                _ZN8SdVolume12cacheBuffer_E
+ .bss.SD        0x0000000000800423       0x47 ./Source/SD/SD.o
+                0x0000000000800423                SD
+ .bss.Timers    0x000000000080046a        0x4 ./Source/CPU/Timer.o
+                0x000000000080046a                Timers
+ .bss.datoRX    0x000000000080046e        0x1 ./Source/AvrSerial/avrSerial.o
+                0x000000000080046e                datoRX
+ .bss.intusart  0x000000000080046f        0x2 ./Source/AvrSerial/avrSerial.o
+                0x000000000080046f                intusart
+ .bss.serial    0x0000000000800471        0x6 ./Source/main.o
+                0x0000000000800471                serial
+ *(COMMON)
+ COMMON         0x0000000000800477        0x4 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0000000000800477                __brkval
+                0x0000000000800479                __flp
+                0x000000000080047b                PROVIDE (__bss_end, .)
+                0x0000000000002c7e                __data_load_start = LOADADDR (.data)
+                0x0000000000002d98                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x000000000080047b        0x0
+                0x000000000080047b                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x000000000080047b                PROVIDE (__noinit_end, .)
+                0x000000000080047b                _end = .
+                0x000000000080047b                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 ./Source/stream/Print.o
+                                         0x12 (tamaño antes de la relajación)
+ .comment       0x0000000000000000       0x12 ./Source/stream/Stream.o
+ .comment       0x0000000000000000       0x12 ./Source/SD/utility/Sd2Card.o
+ .comment       0x0000000000000000       0x12 ./Source/SD/utility/SdFile.o
+ .comment       0x0000000000000000       0x12 ./Source/SD/utility/SdVolume.o
+ .comment       0x0000000000000000       0x12 ./Source/SD/File.o
+ .comment       0x0000000000000000       0x12 ./Source/SD/SD.o
+ .comment       0x0000000000000000       0x12 ./Source/CPU/Timer.o
+ .comment       0x0000000000000000       0x12 ./Source/CPU/auxiliar.o
+ .comment       0x0000000000000000       0x12 ./Source/AvrSerial/avrSerial.o
+ .comment       0x0000000000000000       0x12 ./Source/main.o
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(AvrSD.elf elf32-avr)
+LOAD linker stubs
+
+Tabla de Referencias Cruzadas
+
+Símbolo                                          Fichero
+AvrSerial::AvrSerial()                            ./Source/AvrSerial/avrSerial.o
+AvrSerial::AvrSerial()                            ./Source/AvrSerial/avrSerial.o
+                                                  ./Source/main.o
+AvrSerial::AvrSerial(long)                        ./Source/AvrSerial/avrSerial.o
+AvrSerial::AvrSerial(long)                        ./Source/AvrSerial/avrSerial.o
+AvrSerial::USART_Transmit(unsigned char)          ./Source/AvrSerial/avrSerial.o
+AvrSerial::begin(long)                            ./Source/AvrSerial/avrSerial.o
+                                                  ./Source/main.o
+AvrSerial::getBaudios()                           ./Source/AvrSerial/avrSerial.o
+AvrSerial::read()                                 ./Source/AvrSerial/avrSerial.o
+AvrSerial::removeInterrupt()                      ./Source/AvrSerial/avrSerial.o
+AvrSerial::setBaudios(long)                       ./Source/AvrSerial/avrSerial.o
+AvrSerial::setInterrupt(void (*)())               ./Source/AvrSerial/avrSerial.o
+AvrSerial::write(char)                            ./Source/AvrSerial/avrSerial.o
+DDRBbits                                          ./Source/CPU/auxiliar.o
+DDRCbits                                          ./Source/CPU/auxiliar.o
+DDRDbits                                          ./Source/CPU/auxiliar.o
+File::File()                                      ./Source/SD/File.o
+                                                  ./Source/SD/SD.o
+File::File()                                      ./Source/SD/File.o
+File::File(SdFile, char const*)                   ./Source/SD/File.o
+File::File(SdFile, char const*)                   ./Source/SD/File.o
+                                                  ./Source/SD/SD.o
+File::available()                                 ./Source/SD/File.o
+File::close()                                     ./Source/SD/File.o
+                                                  ./Source/main.o
+File::flush()                                     ./Source/SD/File.o
+File::isDirectory()                               ./Source/SD/File.o
+                                                  ./Source/SD/SD.o
+File::name()                                      ./Source/SD/File.o
+File::openNextFile(unsigned char)                 ./Source/SD/SD.o
+File::operator bool()                             ./Source/SD/File.o
+                                                  ./Source/main.o
+File::peek()                                      ./Source/SD/File.o
+File::position()                                  ./Source/SD/File.o
+File::read()                                      ./Source/SD/File.o
+File::read(void*, unsigned int)                   ./Source/SD/File.o
+File::rewindDirectory()                           ./Source/SD/SD.o
+File::seek(unsigned long)                         ./Source/SD/File.o
+                                                  ./Source/main.o
+File::size()                                      ./Source/SD/File.o
+File::write(char const*, int)                     ./Source/SD/File.o
+                                                  ./Source/main.o
+File::write(char)                                 ./Source/SD/File.o
+PINBbits                                          ./Source/CPU/auxiliar.o
+PINCbits                                          ./Source/CPU/auxiliar.o
+PINDbits                                          ./Source/CPU/auxiliar.o
+PORTBbits                                         ./Source/CPU/auxiliar.o
+                                                  ./Source/SD/utility/Sd2Card.o
+PORTCbits                                         ./Source/CPU/auxiliar.o
+PORTDbits                                         ./Source/CPU/auxiliar.o
+Print::Print()                                    ./Source/stream/Print.o
+Print::Print()                                    ./Source/stream/Print.o
+                                                  ./Source/AvrSerial/avrSerial.o
+                                                  ./Source/SD/SD.o
+                                                  ./Source/SD/utility/SdFile.o
+                                                  ./Source/stream/Stream.o
+Print::print(char const*)                         ./Source/stream/Print.o
+                                                  ./Source/main.o
+Print::print(char)                                ./Source/stream/Print.o
+Print::print(char*)                               ./Source/stream/Print.o
+Print::print(char, int)                           ./Source/stream/Print.o
+Print::print(double, int)                         ./Source/stream/Print.o
+Print::print(int, int)                            ./Source/stream/Print.o
+Print::print(long, int)                           ./Source/stream/Print.o
+Print::print(short, int)                          ./Source/stream/Print.o
+Print::print(unsigned char, int)                  ./Source/stream/Print.o
+Print::print(unsigned int, int)                   ./Source/stream/Print.o
+Print::print(unsigned long, int)                  ./Source/stream/Print.o
+Print::print(unsigned short, int)                 ./Source/stream/Print.o
+Print::printFloat(float, int)                     ./Source/stream/Print.o
+Print::printNumber(unsigned long, int)            ./Source/stream/Print.o
+Print::println()                                  ./Source/stream/Print.o
+Print::println(char const*)                       ./Source/stream/Print.o
+                                                  ./Source/main.o
+Print::println(char*)                             ./Source/stream/Print.o
+Print::println(char, int)                         ./Source/stream/Print.o
+Print::println(double, int)                       ./Source/stream/Print.o
+Print::println(int, int)                          ./Source/stream/Print.o
+Print::println(long, int)                         ./Source/stream/Print.o
+Print::println(short, int)                        ./Source/stream/Print.o
+Print::println(unsigned char, int)                ./Source/stream/Print.o
+Print::println(unsigned int, int)                 ./Source/stream/Print.o
+Print::println(unsigned long, int)                ./Source/stream/Print.o
+Print::println(unsigned short, int)               ./Source/stream/Print.o
+Print::write(char const*, int)                    ./Source/stream/Print.o
+                                                  ./Source/AvrSerial/avrSerial.o
+                                                  ./Source/SD/utility/SdFile.o
+                                                  ./Source/stream/Stream.o
+Print::write(char)                                ./Source/stream/Print.o
+                                                  ./Source/stream/Stream.o
+Print::write(char*)                               ./Source/stream/Print.o
+SD                                                ./Source/SD/SD.o
+                                                  ./Source/main.o
+SDClass::begin()                                  ./Source/SD/SD.o
+                                                  ./Source/main.o
+SDClass::exists(char*)                            ./Source/SD/SD.o
+SDClass::getParentDir(char const*, int*)          ./Source/SD/SD.o
+SDClass::mkdir(char*)                             ./Source/SD/SD.o
+SDClass::open(char const*, unsigned char)         ./Source/SD/SD.o
+                                                  ./Source/main.o
+SDClass::remove(char*)                            ./Source/SD/SD.o
+SDClass::rmdir(char*)                             ./Source/SD/SD.o
+SPIchipDeSelect()                                 ./Source/SD/utility/Sd2Card.o
+SPIchipSelect()                                   ./Source/SD/utility/Sd2Card.o
+SPIinit()                                         ./Source/SD/utility/Sd2Card.o
+SPIsetSckRate(unsigned char)                      ./Source/SD/utility/Sd2Card.o
+SPItransfer(unsigned char)                        ./Source/SD/utility/Sd2Card.o
+SPItransfer(void*, unsigned int)                  ./Source/SD/utility/Sd2Card.o
+SPItransfer16(unsigned int)                       ./Source/SD/utility/Sd2Card.o
+Sd2Card::cardCommand(unsigned char, unsigned long) ./Source/SD/utility/Sd2Card.o
+Sd2Card::cardSize()                               ./Source/SD/utility/Sd2Card.o
+Sd2Card::chipSelectHigh()                         ./Source/SD/utility/Sd2Card.o
+Sd2Card::chipSelectLow()                          ./Source/SD/utility/Sd2Card.o
+Sd2Card::erase(unsigned long, unsigned long)      ./Source/SD/utility/Sd2Card.o
+Sd2Card::eraseSingleBlockEnable()                 ./Source/SD/utility/Sd2Card.o
+Sd2Card::init()                                   ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/SD/SD.o
+Sd2Card::partialBlockRead(unsigned char)          ./Source/SD/utility/Sd2Card.o
+Sd2Card::readBlock(unsigned long, unsigned char*) ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/SD/utility/SdVolume.o
+Sd2Card::readData(unsigned long, unsigned int, unsigned int, unsigned char*) ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/SD/utility/SdFile.o
+Sd2Card::readEnd()                                ./Source/SD/utility/Sd2Card.o
+Sd2Card::readRegister(unsigned char, void*)       ./Source/SD/utility/Sd2Card.o
+Sd2Card::waitNotBusy(unsigned int)                ./Source/SD/utility/Sd2Card.o
+Sd2Card::waitStartBlock()                         ./Source/SD/utility/Sd2Card.o
+Sd2Card::writeBlock(unsigned long, unsigned char const*) ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+Sd2Card::writeData(unsigned char const*)          ./Source/SD/utility/Sd2Card.o
+Sd2Card::writeData(unsigned char, unsigned char const*) ./Source/SD/utility/Sd2Card.o
+Sd2Card::writeStart(unsigned long, unsigned long) ./Source/SD/utility/Sd2Card.o
+Sd2Card::writeStop()                              ./Source/SD/utility/Sd2Card.o
+SdFile::SdFile()                                  ./Source/SD/SD.o
+SdFile::SdFile()                                  ./Source/SD/SD.o
+SdFile::SdFile(SdFile const&)                     ./Source/SD/SD.o
+SdFile::SdFile(SdFile const&)                     ./Source/SD/SD.o
+SdFile::addCluster()                              ./Source/SD/utility/SdFile.o
+SdFile::addDirCluster()                           ./Source/SD/utility/SdFile.o
+SdFile::cacheDirEntry(unsigned char)              ./Source/SD/utility/SdFile.o
+SdFile::close()                                   ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+                                                  ./Source/SD/File.o
+SdFile::contiguousRange(unsigned long*, unsigned long*) ./Source/SD/utility/SdFile.o
+SdFile::createContiguous(SdFile*, char const*, unsigned long) ./Source/SD/utility/SdFile.o
+SdFile::dateTime_                                 ./Source/SD/utility/SdFile.o
+SdFile::dirEntry(directoryEntry*)                 ./Source/SD/utility/SdFile.o
+SdFile::dirName(directoryEntry const&, char*)     ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+SdFile::ls(unsigned char, unsigned char)          ./Source/SD/utility/SdFile.o
+SdFile::make83Name(char const*, unsigned char*)   ./Source/SD/utility/SdFile.o
+SdFile::makeDir(SdFile*, char const*)             ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+SdFile::oldDateTime_                              ./Source/SD/utility/SdFile.o
+SdFile::open(SdFile*, char const*, unsigned char) ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+SdFile::open(SdFile*, unsigned int, unsigned char) ./Source/SD/utility/SdFile.o
+SdFile::openCachedEntry(unsigned char, unsigned char) ./Source/SD/utility/SdFile.o
+SdFile::openRoot(SdVolume*)                       ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+SdFile::printDirName(directoryEntry const&, unsigned char) ./Source/SD/utility/SdFile.o
+SdFile::printFatDate(unsigned int)                ./Source/SD/utility/SdFile.o
+SdFile::printFatTime(unsigned int)                ./Source/SD/utility/SdFile.o
+SdFile::printTwoDigits(unsigned char)             ./Source/SD/utility/SdFile.o
+SdFile::read()                                    ./Source/SD/File.o
+SdFile::read(void*, unsigned int)                 ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/File.o
+SdFile::readDir(directoryEntry*)                  ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+SdFile::readDirCache()                            ./Source/SD/utility/SdFile.o
+SdFile::remove()                                  ./Source/SD/utility/SdFile.o
+SdFile::remove(SdFile*, char const*)              ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+SdFile::rmDir()                                   ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+SdFile::rmRfStar()                                ./Source/SD/utility/SdFile.o
+SdFile::seekSet(unsigned long)                    ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+                                                  ./Source/SD/File.o
+SdFile::sync()                                    ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/File.o
+SdFile::timestamp(unsigned char, unsigned int, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./Source/SD/utility/SdFile.o
+SdFile::truncate(unsigned long)                   ./Source/SD/utility/SdFile.o
+SdFile::write(char const*)                        ./Source/SD/utility/SdFile.o
+SdFile::write(char)                               ./Source/SD/utility/SdFile.o
+SdFile::write(void const*, int)                   ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/File.o
+SdVolume::allocContiguous(unsigned long, unsigned long*) ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::cacheBlockNumber_                       ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::cacheBuffer_                            ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::cacheDirty_                             ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::cacheFlush()                            ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::cacheMirrorBlock_                       ./Source/SD/utility/SdVolume.o
+SdVolume::cacheRawBlock(unsigned long, unsigned char) ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::cacheZeroBlock(unsigned long)           ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::chainSize(unsigned long, unsigned long*) const ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::fatGet(unsigned long, unsigned long*) const ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::fatPut(unsigned long, unsigned long)    ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::freeChain(unsigned long)                ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+SdVolume::init(Sd2Card*, unsigned char)           ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/SD.o
+SdVolume::sdCard_                                 ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+Stream::Stream()                                  ./Source/stream/Stream.o
+                                                  ./Source/SD/File.o
+Stream::Stream()                                  ./Source/stream/Stream.o
+Stream::available()                               ./Source/stream/Stream.o
+Stream::find(char*)                               ./Source/stream/Stream.o
+Stream::find(char*, unsigned int)                 ./Source/stream/Stream.o
+Stream::findMulti(Stream::MultiTarget*, int)      ./Source/stream/Stream.o
+Stream::findUntil(char*, char*)                   ./Source/stream/Stream.o
+Stream::findUntil(char*, unsigned int, char*, unsigned int) ./Source/stream/Stream.o
+Stream::flush()                                   ./Source/stream/Stream.o
+Stream::parseFloat()                              ./Source/stream/Stream.o
+Stream::parseFloat(char)                          ./Source/stream/Stream.o
+Stream::parseInt()                                ./Source/stream/Stream.o
+Stream::parseInt(char)                            ./Source/stream/Stream.o
+Stream::peek()                                    ./Source/stream/Stream.o
+Stream::peekNextDigit()                           ./Source/stream/Stream.o
+Stream::read()                                    ./Source/stream/Stream.o
+Stream::readBytes(char*, unsigned int)            ./Source/stream/Stream.o
+Stream::readBytesUntil(char, char*, unsigned int) ./Source/stream/Stream.o
+Stream::setTimeout(unsigned long)                 ./Source/stream/Stream.o
+Stream::timedPeek()                               ./Source/stream/Stream.o
+Stream::timedRead()                               ./Source/stream/Stream.o
+Stream::~Stream()                                 ./Source/stream/Stream.o
+Stream::~Stream()                                 ./Source/stream/Stream.o
+                                                  ./Source/main.o
+Timer::Timer()                                    ./Source/CPU/Timer.o
+Timer::Timer()                                    ./Source/CPU/Timer.o
+Timer::Timer(unsigned long)                       ./Source/CPU/Timer.o
+                                                  ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/stream/Stream.o
+Timer::Timer(unsigned long)                       ./Source/CPU/Timer.o
+Timer::checkTimer()                               ./Source/CPU/Timer.o
+                                                  ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/stream/Stream.o
+Timer::getTime()                                  ./Source/CPU/Timer.o
+Timer::reStart()                                  ./Source/CPU/Timer.o
+Timer::setTime(unsigned long)                     ./Source/CPU/Timer.o
+Timer::start()                                    ./Source/CPU/Timer.o
+                                                  ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/stream/Stream.o
+Timer::stop()                                     ./Source/CPU/Timer.o
+Timer::updateTimer()                              ./Source/CPU/Timer.o
+Timer::~Timer()                                   ./Source/CPU/Timer.o
+                                                  ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/stream/Stream.o
+Timer::~Timer()                                   ./Source/CPU/Timer.o
+Timers                                            ./Source/CPU/Timer.o
+TimersInt::TimersInt()                            ./Source/CPU/Timer.o
+TimersInt::TimersInt()                            ./Source/CPU/Timer.o
+TimersInt::addTimer(Timer*)                       ./Source/CPU/Timer.o
+TimersInt::delTimer(Timer*)                       ./Source/CPU/Timer.o
+TimersInt::updateTimers()                         ./Source/CPU/Timer.o
+__addsf3                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+__addsf3x                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__brkval                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+__bss_end                                         /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ctors_end                                       /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__data_end                                        /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__divmodsi4                                       /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                                                  ./Source/AvrSerial/avrSerial.o
+__do_clear_bss                                    /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  ./Source/main.o
+                                                  ./Source/AvrSerial/avrSerial.o
+                                                  ./Source/CPU/Timer.o
+                                                  ./Source/SD/SD.o
+                                                  ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+__do_copy_data                                    /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  ./Source/main.o
+                                                  ./Source/AvrSerial/avrSerial.o
+                                                  ./Source/CPU/auxiliar.o
+                                                  ./Source/SD/SD.o
+                                                  ./Source/SD/File.o
+                                                  ./Source/SD/utility/SdVolume.o
+                                                  ./Source/SD/utility/SdFile.o
+                                                  ./Source/stream/Stream.o
+                                                  ./Source/stream/Print.o
+__do_global_ctors                                 /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                                                  ./Source/main.o
+                                                  ./Source/CPU/Timer.o
+                                                  ./Source/SD/SD.o
+__eqsf2                                           /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  ./Source/stream/Print.o
+__floatsisf                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  ./Source/stream/Stream.o
+__floatunsisf                                     /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  ./Source/stream/Print.o
+__flp                                             /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+__fp_cmp                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fp_inf                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_nan                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscA                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscB                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_round                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+__fp_split3                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_splitA                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__fp_zero                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__heap_end                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+__heap_start                                      /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ltsf2                                           /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  ./Source/stream/Print.o
+__malloc_heap_end                                 /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_heap_start                               /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_margin                                   /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+__mulsf3                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  ./Source/stream/Stream.o
+                                                  ./Source/stream/Print.o
+__mulsf3_pse                                      /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(mulsf3.o)
+__muluhisi3                                       /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+                                                  ./Source/SD/utility/SdVolume.o
+                                                  ./Source/stream/Stream.o
+__negsi2                                          /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+                                                  /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+__nesf2                                           /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__stack                                           /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  ./Source/stream/Print.o
+__tablejump2__                                    /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                                                  /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                                                  ./Source/stream/Print.o
+__umulhisi3                                       /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+                                                  /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+__vector_1                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       ./Source/CPU/Timer.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       ./Source/AvrSerial/avrSerial.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+_exit                                             /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+bucle()                                           ./Source/main.o
+callback_makeDirPath(SdFile&, char*, char, void*) ./Source/SD/SD.o
+callback_pathExists(SdFile&, char*, char, void*)  ./Source/SD/SD.o
+callback_remove(SdFile&, char*, char, void*)      ./Source/SD/SD.o
+callback_rmdir(SdFile&, char*, char, void*)       ./Source/SD/SD.o
+configuraciones()                                 ./Source/main.o
+datoRX                                            ./Source/AvrSerial/avrSerial.o
+exit                                              /usr/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+free                                              /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  ./Source/CPU/auxiliar.o
+                                                  ./Source/SD/File.o
+getNextPathComponent(char*, unsigned int*, char*) ./Source/SD/SD.o
+intusart                                          ./Source/AvrSerial/avrSerial.o
+main                                              ./Source/main.o
+                                                  /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/crtm328p.o
+malloc                                            /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  ./Source/CPU/auxiliar.o
+                                                  ./Source/SD/File.o
+memcmp                                            /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(memcmp.o)
+                                                  ./Source/SD/utility/SdFile.o
+operator delete(void*)                            ./Source/CPU/auxiliar.o
+                                                  ./Source/CPU/Timer.o
+                                                  ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/stream/Stream.o
+operator delete[](void*)                          ./Source/CPU/auxiliar.o
+operator new(unsigned int)                        ./Source/CPU/auxiliar.o
+                                                  ./Source/SD/utility/Sd2Card.o
+                                                  ./Source/stream/Stream.o
+operator new[](unsigned int)                      ./Source/CPU/auxiliar.o
+                                                  ./Source/CPU/Timer.o
+serial                                            ./Source/main.o
+strchr                                            /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strchr.o)
+                                                  ./Source/SD/SD.o
+strncpy                                           /usr/lib/gcc/avr/4.8.1/../../../avr/lib/avr5/libc.a(strncpy.o)
+                                                  ./Source/SD/SD.o
+                                                  ./Source/SD/File.o
+vtable for AvrSerial                              ./Source/AvrSerial/avrSerial.o
+vtable for File                                   ./Source/SD/File.o
+                                                  ./Source/main.o
+vtable for Print                                  ./Source/stream/Print.o
+vtable for SdFile                                 ./Source/SD/utility/SdFile.o
+                                                  ./Source/SD/SD.o
+vtable for Stream                                 ./Source/stream/Stream.o
+walkPath(char*, SdFile&, char (*)(SdFile&, char*, char, void*), void*) ./Source/SD/SD.o
